@@ -19,6 +19,6 @@ The data has been sourced from educational websites [https://sandeepbarouli.com/
 
 ### References
 Kaveri Anuranjana*, Vijjini Anvesh Rao*, Radhika Mamidi,
-"[Hindi Question Generation Using Dependency Structures](https://www.researchgate.net/publication/342424208_HindiRC_A_Dataset_for_Reading_Comprehension_in_Hindi)", 20<sup>*th*</sup> International Conference on Computational Linguistics and Intelligent Text Processing, CICLing, 2019.
+"[HindiRC: A Dataset for Reading Comprehension in Hindi](https://www.researchgate.net/publication/342424208_HindiRC_A_Dataset_for_Reading_Comprehension_in_Hindi)", 20<sup>*th*</sup> International Conference on Computational Linguistics and Intelligent Text Processing, CICLing, 2019.
 
 Please cite our paper above when using this dataset! :)
