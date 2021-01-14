@@ -41,7 +41,7 @@ Kaveri Anuranjana*, Vijjini Anvesh Rao*, Radhika Mamidi,
 ```
 @inproceedings{anuranjana2019hindirc,
   title     = {HindiRC: A Dataset for Reading Comprehension in Hindi},
-  author    = {Anuranjana, Kaveri and Rao, Vijjini and Mamidi, Radhika},
+  author    = {Anuranjana, Kaveri and Rao, Vijjini Anvesh and Mamidi, Radhika},
   booktitle = {20th International Conference on Computational Linguistics and Intelligent Text},
   year      = {2019}
 }
